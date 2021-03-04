@@ -19,6 +19,6 @@
 
 
 
-</details>
+
 [linkedin]: https://linkedin.com/in/vladi-binyaminov
 [gmail]:malito:vladib6@gmail.com
