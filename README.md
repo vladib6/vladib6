@@ -1,4 +1,4 @@
-# Hi there, I'm Vladi -Computer Science Student. GPA- 85
+# Hi there, I'm Vladi -Computer Science Student.
 ## I'm passionate about coding, a self learner, quick adapter and a team player.
 ### Looking for a student position as a Software Developer.
 
